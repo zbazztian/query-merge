@@ -1,0 +1,6 @@
+# https://codeql.github.com/docs/codeql-cli/about-codeql-packs/
+
+name: zbazztian/something-pack
+version: 0.0.2
+dependencies:
+    codeql/java-all: "*"
